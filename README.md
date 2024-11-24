@@ -24,7 +24,7 @@
 4. Open the provided URL in a web browser.
 
 ## Live Demo
-Click Here:(https://reminderappyogesh.streamlit.app/)
+[Click here to try the app](https://reminderappyogesh.streamlit.app/)
 
 ## ScreenShots
 Reminder App screenshots![Screenshot1](https://github.com/user-attachments/assets/effc7b67-9905-47c1-a539-42c78906c01f)
