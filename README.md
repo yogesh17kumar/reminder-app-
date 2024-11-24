@@ -1,5 +1,3 @@
----
-
 # 🧠 Reminder App
 
 ## Features
@@ -58,8 +56,5 @@ Reminder App screenshots![Screenshot1](https://github.com/user-attachments/asset
 - **User Authentication**: Allow users to log in and manage their reminders across sessions.
 - **Reminder Sorting**: Sort reminders by due date and time.
 
----
-
 Enjoy managing your reminders! 🗓️🎉
 
----
